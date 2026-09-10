@@ -15,17 +15,6 @@ I'm particularly interested in the intersection of **documentation, UX and produ
 - 🧩 UX and product thinking
 - 🐍 Python for data and research projects
 
-## Featured projects
-
-### Legado lingüístico indígena
-Research project exploring the influence of Indigenous languages on Spanish and English.
-
-### Venezuelan Dream Stories
-Data collection and research project using Python and the Twitter API.
-
-### Currency Conversion Calculator
-A Python tool designed to simplify currency conversion for Venezuelan users.
-
 ## Currently learning
 
 - Technical Writing
