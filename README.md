@@ -15,13 +15,6 @@ I'm particularly interested in the intersection of **documentation, UX and produ
 - 🧩 UX and product thinking
 - 🐍 Python for data and research projects
 
-## Currently learning
-
-- Technical Writing
-- UX Writing
-- Product Management
-- Documentation strategy
-
 ## Find me
 
  [Linkedin](https://www.linkedin.com/in/monicacorreab/) and [Telegram](https://t.me/monicacorrea)
