@@ -1,20 +1,27 @@
 # Hi, I'm Mónica 👋
 
-**Technical Writer · Data Journalist · Researcher**
+**Product Manager · Technical Communication · UX & Data**
 
-I turn complex information into clear, useful and accessible content.
+I turn complex information, user needs, and business requirements into clear, actionable product solutions.
 
-My background combines research, data journalism, education and technical communication. 
-I'm particularly interested in the intersection of **documentation, UX and product**.
+My background combines Product Management, Technical Writing, Data Journalism, and research. I currently work in B2B SaaS, focusing on product discovery, UX improvements, technical documentation, and AI-powered solutions that improve workflows and processes.
 
 ## What I work on
 
-- 📝 Technical documentation and user-facing content
-- 📊 Data analysis and data storytelling
-- 🔎 Research and information architecture
-- 🧩 UX and product thinking
-- 🐍 Python for data and research projects
+- 🧩 **Product Management:** Define product epics, user stories, functional requirements, and scope.
+- 🔎 **Product Discovery & UX:** Use data analysis and user research to identify friction points and improvement opportunities.
+- 📝 **Technical Communication:** Develop technical documentation, UX content, and reusable content solutions.
+- 📊 **Data & Research:** Investigate product issues, analyze data, and translate findings into actionable insights.
+- 🤖 **AI & Process Improvement:** Research and develop AI-powered solutions to improve product workflows and internal processes.
+
+## Tools & Technologies
+
+**Product & UX:** Jira · Confluence · Figma · Microsoft Clarity
+
+**Data & Research:** Looker · Alteryx · Python · SQL (Basic)
+
+**AI:** Gemini · Claude · ChatGPT
 
 ## Find me
 
- [Linkedin](https://www.linkedin.com/in/monicacorreab/) and [Telegram](https://t.me/monicacorrea)
+[LinkedIn](https://www.linkedin.com/in/monicacorreab/) · [Portfolio](https://www.monicacorrea.com/)
